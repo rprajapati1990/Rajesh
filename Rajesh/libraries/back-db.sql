@@ -18,11 +18,7 @@ print @path
 exec master.dbo.xp_create_subdir @path
 
 DECLARE db_cursor CURSOR READ_ONLY FOR  
-SELECT name 
-FROM master.dbo.sysdatabases 
-WHERE name IN ('CygnetGSPMaster','CygnetGSPMetadata','CygnetGSPAppData','CygnetGSPClient','CygnetGSPFileStore','DBA_Logs')  -- use mentioned databases
-OR Name LIKE '%_CygnetGSPClient_%'
- 
+
 OPEN db_cursor   
 FETCH NEXT FROM db_cursor INTO @name   
  
