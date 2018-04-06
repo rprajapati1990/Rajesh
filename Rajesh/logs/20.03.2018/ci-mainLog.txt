@@ -1,0 +1,35 @@
+Changed database context to 'master'.
+\\192.192.6.107\d$\Backups\20.03.2018\Database\
+Changed database context to 'master'.
+\\192.192.6.107\d$\Backups\20.03.2018\Database\
+Processed 1184 pages for database 'CygnetGSPMaster', file 'GSPMasterDB' on file 1.
+Processed 2 pages for database 'CygnetGSPMaster', file 'GSPMasterDB_log' on file 1.
+BACKUP DATABASE successfully processed 1186 pages in 0.697 seconds (13.293 MB/sec).
+Processed 664 pages for database 'CygnetGSPAppData', file 'CygnetGSPAppData_Data' on file 1.
+Processed 4 pages for database 'CygnetGSPAppData', file 'CygnetGSPAppData_Log' on file 1.
+BACKUP DATABASE successfully processed 668 pages in 0.427 seconds (12.212 MB/sec).
+Processed 2064 pages for database 'CygnetGSPClient', file 'CygnetGSPClient_Data' on file 1.
+Processed 3 pages for database 'CygnetGSPClient', file 'CygnetGSPClient_Log' on file 1.
+BACKUP DATABASE successfully processed 2067 pages in 0.708 seconds (22.803 MB/sec).
+Processed 496 pages for database 'CygnetGSPMetadata', file 'GSPMetaDataDB_Data' on file 1.
+Processed 3 pages for database 'CygnetGSPMetadata', file 'GSPMetaDataDB_Log' on file 1.
+BACKUP DATABASE successfully processed 499 pages in 0.246 seconds (15.847 MB/sec).
+Processed 520 pages for database 'CygnetGSPFileStore', file 'CygnetGSPFileStore' on file 1.
+Processed 16473 pages for database 'CygnetGSPFileStore', file 'CygnetGSPFileStore_File' on file 1.
+Processed 4 pages for database 'CygnetGSPFileStore', file 'CygnetGSPFileStore_log' on file 1.
+BACKUP DATABASE successfully processed 16997 pages in 23.089 seconds (5.750 MB/sec).
+Processed 2448 pages for database '1_CygnetGSPClient_1', file '1_CygnetGSPClient_Data_1' on file 1.
+Processed 3 pages for database '1_CygnetGSPClient_1', file '1_CygnetGSPClient_Log_1' on file 1.
+BACKUP DATABASE successfully processed 2451 pages in 0.922 seconds (20.764 MB/sec).
+Processed 2448 pages for database '2_CygnetGSPClient_1', file '2_CygnetGSPClient_Data_1' on file 1.
+Processed 3 pages for database '2_CygnetGSPClient_1', file '2_CygnetGSPClient_Log_1' on file 1.
+BACKUP DATABASE successfully processed 2451 pages in 0.938 seconds (20.409 MB/sec).
+Processed 2456 pages for database '3_CygnetGSPClient_1', file '3_CygnetGSPClient_Data_1' on file 1.
+Processed 3 pages for database '3_CygnetGSPClient_1', file '3_CygnetGSPClient_Log_1' on file 1.
+BACKUP DATABASE successfully processed 2459 pages in 0.856 seconds (22.438 MB/sec).
+Processed 2432 pages for database '4_CygnetGSPClient_1', file '4_CygnetGSPClient_Data_1' on file 1.
+Processed 3 pages for database '4_CygnetGSPClient_1', file '4_CygnetGSPClient_Log_1' on file 1.
+BACKUP DATABASE successfully processed 2435 pages in 0.891 seconds (21.346 MB/sec).
+Processed 520 pages for database 'DBA_Logs', file 'DBA_Logs_Data' on file 1.
+Processed 3 pages for database 'DBA_Logs', file 'DBA_Logs_Log' on file 1.
+BACKUP DATABASE successfully processed 523 pages in 0.325 seconds (12.572 MB/sec).
